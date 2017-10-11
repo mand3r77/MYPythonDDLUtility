@@ -1,10 +1,1 @@
-.idea/
-target/
-*.iml
 .svn
-.DS_Store
-.idea
-services/pathname
-.settings/
-.project
-.classpath
